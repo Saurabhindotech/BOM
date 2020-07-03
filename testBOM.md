@@ -1,1 +1,2 @@
 test bom
+modify both
