@@ -1,1 +1,53 @@
-
+S.No	Description.	Value	Package	Designator	1000 KIT	Quantity
+1	BK Light	BK LIGHT	Leaded	BL1		1
+2	Lithium Battery (Vertical Tag)	CR2032	Coin Cell with 3Pin tag (vertical)	BT1		1
+3	Lithium Battery (Vertical Tag)	CR2450	Coin Cell with 3Pin tag (vertical)	BT2		1
+4	Chip Capacitor	33NF	603	C3, C21, C22, C25, C26, C27, C28, C29		8
+5	Chip Capacitor	12PF	603	C1, C2,C6, C9		4
+6	Chip Capacitor	10uF	603	C32, C31, C30		3
+7	Chip Capacitor	100NF	603	C4, C5, C16, C20, C24, C34,C38, C33, C7, C8, C35, C36,C40,C39		14
+8	Chip Capacitor	100NF/100V	1206	C14		1
+9	Electrolytic Capacitor	4.7uF	603	C10		1
+10	Metalized Film Capacitor	0.41uF/440V	(LS=15mm,LD=0.8mm)	C12, C17, C18		3
+11	Electrolytic Capacitor	470uF/25V	LEADED (10 X12.5MM)	C19, C23		2
+12	Electrolytic Capacitor	100uF/100v	LEADED (10 X12.5MM)	C13		1
+13	Electrolytic Capacitor	100uF/16v	LEADED (10 X12.5MM)	C37		1
+14	Schottky Double Diode	BAT54C	SOT-23	D1, D2		2
+15	Schottky Diode	BD160SMA		D8		1
+16	Schottky Diode	RB411		D4,D5,D3		3
+17	PHOTODIODE	Txd	Leaded (5mm)	D6		1
+18	Rectifier Diode	1N4007	DO-41	D7, D9, D10, D11, D12, D14		6
+19	Rectifier Diode	1N4007	SMD (M7)	D15, D17, D18		3
+20	Zener Diode	5.1V/0.5W	DO-41	D13, D16		2
+21	Zener Diode	27V/3W	IN5935BRGL	Z1,Z2		2
+22	LCD	LCD	Leaded (32-Pin)	LCD1		1
+23	LED	LED	Leaded (5mm)	LED1, LED2		2
+24	MOV	S20/510V	Leaded (Dia=14mm, LD=0.8, LS=7.5mm)	MOV1, MOV2, MOV3		3
+25	Tansistor	BC857	SOT-23	Q1		1
+26	PHOTOTRANSISTOR	Rxd	Leaded (5mm)	Q2		1
+27	Chip Resistance	2K2	603	R1, R4, R15, R16, R17, R62, R63, R64, R65		9
+28	Chip Resistance	1K	0603	R32, R37, R42, R47, R50, R55, R58		7
+29	Chip Resistance	10K	0603	R3, R5, R6, R8, R9, R10, R11, R12,R79,R60,R2, R21		12
+30	Chip Resistance	33k	0805	R14		1
+31	Chip Resistance	8.2k	0805	R23		1
+32	Chip Resistance	0E	1206	R20		1
+33	Chip Resistance	1M	1206	R24, R26		2
+34	Chip Resistance	0E	603	R27, R66, R13, R70,R67,R69		6
+35	Chip Resistance	470E	603	R30,R19		2
+36	Wire Wound Resistance	470E/1W	Leaded	R22, R25, R29		3
+37	Chip Resistance	470E	603	R40, R49, R57		3
+38	Chip Resistance	10E	603	R39, R48, R56, R59		4
+39	Chip Resistance	180K	1206	R33, R34, R35, R36,R43, R44, R45, R46,R51, R52, R53, R54		12
+40	Chip Resistance	100k	603	R7		1
+41	Chip Resistance	22K	603	R41		1
+42	Chip Resistance	10K	603	R38		1
+43	Inductor	22uH,02A	Leaded	L1		1
+44	Push Button Switch		Leaded	S1, S2, S4		3
+45	SW-CO	SW-CO	Leaded, 6 Pin	S3		1
+46	RTC	8563	SOIC-8	U1		1
+47	EPROM	24C1024	SOIC-8	U2		1
+48	Hall Sensor	AH180	SOT-23	U3, U5		2
+49	Microcontroller	MSP430F47187	LQFP-100	U4		1
+50	DC-DC Converter	lv2862xlvddvr / tps560430xdbr		U7		1
+51	Crystal Oscillator	32.768KHz	Leaded	Y1, Y2		2
+52	PCB P-28-C			Y1, Y2		1
